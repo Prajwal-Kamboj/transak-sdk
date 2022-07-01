@@ -18,3 +18,7 @@ yarn-error.log*
 
 package-lock.json
 .history
+
+.DS_Store
+/lib
+/coverage
